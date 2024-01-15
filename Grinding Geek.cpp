@@ -3,7 +3,7 @@
 using namespace std;
 
 // } Driver Code Ends
-class Solution{
+class Solution {
     public:
     int max_courses(int n, int total, vector<int> &cost)
     {
